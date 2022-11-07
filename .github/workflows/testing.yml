@@ -28,10 +28,8 @@ jobs:
         run: |
           date > generated.txt
           lscpu > cpu.txt
-          wget https://cn.bing.com/th?id=OHR.Trossachs_EN-US0183507678_UHD.jpg
-          wget https://cn.bing.com/th?id=OHR.SpruceGoose_EN-US0021752220_UHD.jpg
-          wget https://cn.bing.com/th?id=OHR.BridgeofSighs_EN-US5335369208_UHD.jpg
           ls -ls > file_list.txt
+          rm -rf th*
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
