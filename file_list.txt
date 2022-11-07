@@ -1,0 +1,10 @@
+total 19224
+   4 -rw-r--r-- 1 runner docker    2247 Nov  7 06:51 cpu.txt
+   0 -rw-r--r-- 1 runner docker       0 Nov  7 06:51 file_list.txt
+   4 -rw-r--r-- 1 runner docker      29 Nov  7 06:51 generated.txt
+2180 -rw-r--r-- 1 runner docker 2232206 Nov  7 06:51 th?id=OHR.BridgeofSighs_EN-US5335369208_UHD.jpg
+2180 -rw-r--r-- 1 runner docker 2232206 Nov  7 06:51 th?id=OHR.BridgeofSighs_EN-US5335369208_UHD.jpg.1
+1668 -rw-r--r-- 1 runner docker 1707155 Nov  7 06:51 th?id=OHR.SpruceGoose_EN-US0021752220_UHD.jpg
+1668 -rw-r--r-- 1 runner docker 1707155 Nov  7 06:51 th?id=OHR.SpruceGoose_EN-US0021752220_UHD.jpg.1
+5760 -rw-r--r-- 1 runner docker 5895598 Nov  7 06:51 th?id=OHR.Trossachs_EN-US0183507678_UHD.jpg
+5760 -rw-r--r-- 1 runner docker 5895598 Nov  7 06:51 th?id=OHR.Trossachs_EN-US0183507678_UHD.jpg.1
