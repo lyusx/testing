@@ -27,6 +27,7 @@ jobs:
       - name: test git push
         run: |
           date > generated.txt
+          lscpu > cpu.txt
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
